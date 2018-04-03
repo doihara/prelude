@@ -1,4 +1,4 @@
-baseURL = "http://doihara.github.io/prelude/"
+baseURL = "http://doihara.github.io"
 languageCode = "en-us"
 title = "Preludium"
 theme = "elephants"
