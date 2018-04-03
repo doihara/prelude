@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preludium</title>
-    <link>/</link>
+    <link>https://doihara.github.io/prelude/</link>
     <description>Recent content on Preludium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 18:51:10 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doihara.github.io/prelude/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Secondthought</title>
-      <link>/posts/secondthought/</link>
+      <link>https://doihara.github.io/prelude/posts/secondthought/</link>
       <pubDate>Tue, 03 Apr 2018 18:51:10 +0200</pubDate>
       
-      <guid>/posts/secondthought/</guid>
+      <guid>https://doihara.github.io/prelude/posts/secondthought/</guid>
       <description>Why is the goddamn css style shit not rendering???</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/posts/introduction/</link>
+      <link>https://doihara.github.io/prelude/posts/introduction/</link>
       <pubDate>Tue, 03 Apr 2018 10:12:39 +0200</pubDate>
       
-      <guid>/posts/introduction/</guid>
+      <guid>https://doihara.github.io/prelude/posts/introduction/</guid>
       <description>There is always a begin. And an end.</description>
     </item>
     

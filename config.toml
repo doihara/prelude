@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://doihara.github.io/prelude/"
 languageCode = "en-us"
 title = "Preludium"
 publishDir = "docs"
