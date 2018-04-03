@@ -1,0 +1,5 @@
+baseURL = "http://doihara.github.io/prelude/"
+languageCode = "en-us"
+title = "Preludium"
+theme = "elephants"
+publishDir = "docs"
