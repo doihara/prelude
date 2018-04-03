@@ -3,29 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://doihara.github.io/prelude/posts/introduction/</loc>
+    <loc>/posts/secondthought/</loc>
+    <lastmod>2018-04-03T18:51:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/introduction/</loc>
     <lastmod>2018-04-03T10:12:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://doihara.github.io/prelude/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://doihara.github.io/prelude/posts/</loc>
-    <lastmod>2018-04-03T10:12:39+02:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2018-04-03T18:51:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://doihara.github.io/prelude/</loc>
-    <lastmod>2018-04-03T10:12:39+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-04-03T18:51:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://doihara.github.io/prelude/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

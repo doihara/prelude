@@ -6,27 +6,12 @@
 
         <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 
-        <title>Introduction</title>
+        <title>{{.Title}}</title>
 
         <link rel="stylesheet" href="/css/stylesheet.css">
     </head>
     <body>
         <section id="page-title">
-            <h1><a href="/">Elephants</a></h1>
+            <h1><a href="/">{{ .Site.Params.sitename | default "Elephants"}}</a></h1>
         </section>
 
-
-
-<section class="blog-post">
-    <h1>Introduction</h1>
-    <div class="blog-post-subheader">
-        April 3, 2018
-    </div>
-    <div class="blog-post-content">
-        <p>There is always a begin. And an end.</p>
-
-    </div>
-</section>
-
-    </body>
-</html>
